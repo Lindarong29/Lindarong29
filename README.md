@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=L%20i%20n%20d%20a%20r%20o%20n%20g&fontColor=F6F2F9&fontSize=40&animation=twinkling&color=B299C8&bg_color=F3EDF7&fontAlignY=40)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lindarong29&show_icons=true&theme=buefy&icon_color=7D6194&title_color=7D6194&text_color=382549) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindarong29&layout=compact&title_color=382549)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lindarong29&show_icons=true&theme=buefy&icon_color=7D6194&title_color=7D6194&text_color=382549&count_private=true&include_all_commits=true&hide_rank=false) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindarong29&layout=compact&title_color=382549&exclude_repo=productive-box)
 
 ![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=auto&height=150&color=B299C8)
