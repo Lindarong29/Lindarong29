@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=L%20i%20n%20d%20a%20r%20o%20n%20g&fontcolor=F6F2F9&fontsize=30&animation=twinkling&color=B299C8&bg_color=F3EDF7&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=L%20i%20n%20d%20a%20r%20o%20n%20g&fontcolor=F6F2F9&fontSize=55&animation=twinkling&color=B299C8&bg_color=F3EDF7&fontAlignY=40)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lindarong29&show_icons=true&theme=buefy&icon_color=7D6194&title_color=7D6194&text_color=382549&count_private=true&include_all_commits=true&hide_rank=false) 
